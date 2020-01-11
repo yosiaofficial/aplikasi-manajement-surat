@@ -16,7 +16,7 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-Inspired by Nur Akhwam.
+Inspired by Yosia Kristian.
 
 ---
 
